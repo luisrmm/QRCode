@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "675776887561",
+    "project_id": "angular-11f38",
+    "storage_bucket": "angular-11f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675776887561:android:f196f03b63e2a0828cb1d8",
+        "android_client_info": {
+          "package_name": "com.example.barcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675776887561-vejohr8r4jpl63ie6n75i1suqs9ogi1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPPHS3Bgpn_KZh1cG3hrmHLEVTVlGIgQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675776887561-vejohr8r4jpl63ie6n75i1suqs9ogi1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675776887561:android:d1573d846a932abe8cb1d8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675776887561-vejohr8r4jpl63ie6n75i1suqs9ogi1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPPHS3Bgpn_KZh1cG3hrmHLEVTVlGIgQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675776887561-vejohr8r4jpl63ie6n75i1suqs9ogi1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
